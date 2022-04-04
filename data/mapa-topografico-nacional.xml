@@ -1,0 +1,4 @@
+<!DOCTYPE connections>
+<qgsWMSConnections version="1.0">
+    <wms ignoreGetFeatureInfoURI="false" ignoreGetMapURI="false" invertAxisOrientation="false" referer="" ignoreAxisOrientation="false" smoothPixmapTransform="false" name="Topo 50k" username="" url="https://geofis.xyz/lm/index.php/lizmap/service/?repository=mtnrd50k&amp;project=mtnrd50k&amp;VERSION=1.3.0" password="" dpiMode="7"/>
+</qgsWMSConnections>
