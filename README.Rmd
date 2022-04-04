@@ -26,6 +26,8 @@ knitr::opts_chunk$set(
 
 - _Neck cut-off_ o estrangulamiento
 
+Ríos asignados a cada estudiante:
+
 - Frank Félix: río Yaque del Norte
 
 - Romanti Esther Aquino: río Yaque del Sur
@@ -34,6 +36,8 @@ Producto a entregar: archivo vectorial conteniendo las delimitaciones de los ele
 
 ## Dibuja la red hidrográfica a partir del mapa topográfico nacional (cargar como fuente WMS archivo `mapa-topografico-nacional.xml`, localizado en carpeta `data`) y determina el orden de red máximo según Strahler para tu área asignada (tu área asignada es un rectángulo en GeoPackage, localizado en carpeta `data`):
 
+Áreas asignadas a cada estudiante:
+
 - Frank Félix: Joca (archivo `joca.gpkg`)
 
 - Romanti Esther Aquino: Peralta (archivo `peralta.gpkg`)
@@ -41,6 +45,8 @@ Producto a entregar: archivo vectorial conteniendo las delimitaciones de los ele
 Producto a entregar: archivo vectorial conteniendo la jerarquización correspondiente. Debe incluirse un campo de atributo con el orden de red Strahler de cada segmento.
 
 ## Usa GoogleEarth para determinar cuántos y a qué elevación (según dicha herramienta) se encuentran los niveles de terraza de las siguientes secciones asignadas (ver archivo KML asignado en carpeta `data`):
+
+Secciones de ríos asignados a cada estudiante:
 
 - Frank Félix: Ozama (archivo `Ozama.kml`)
 
